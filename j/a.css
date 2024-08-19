@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(32, 90, 117);
+}
+
+div{
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: antiquewhite;
+
+}
+
+table{
+    border-radius: 5px;
+}
+tr{
+    background-color: rgb(105, 7, 105);
+    color: antiquewhite;
+}
